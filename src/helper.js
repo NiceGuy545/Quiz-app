@@ -1,4 +1,3 @@
-import Answer from "./components/Answer";
 
 export const shuffleAnswers = question => {
     const unshuffledAnsers = [
